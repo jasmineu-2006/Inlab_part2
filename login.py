@@ -1,4 +1,5 @@
 import re
+print("Welcome to password verification")
 
 def validate_passwords(input_string):
     # Split the input string by commas and strip whitespace
