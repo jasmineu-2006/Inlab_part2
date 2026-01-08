@@ -31,3 +31,4 @@ def calculate_net_salary():
 
 # Run the program
 calculate_net_salary()
+print("Welcome to salary calculator")
